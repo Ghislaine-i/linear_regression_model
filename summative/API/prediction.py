@@ -117,10 +117,9 @@ app.add_middleware(
 # ---------------------------------------------------------------------------
 # Routes
 # ---------------------------------------------------------------------------
-@app.get("/", include_in_schema=False)
+@app.api_route("/", methods=["GET", "HEAD"], include_in_schema=False)
 def root():
     return {"message": "Early-Career Developer Salary API. See /docs for the interactive docs."}
-
 
 @app.post("/predict", response_model=PredictionOut)
 def predict(data: SalaryInput):
