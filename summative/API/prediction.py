@@ -96,7 +96,7 @@ app = FastAPI(
 # Credentials: False, because the API uses no cookies or logins, so browsers have no
 #   reason to send them.
 # A Flutter mobile app is not a browser, so CORS does not affect it.
-RENDER_URL = "https://YOUR-SERVICE-NAME.onrender.com"   # TODO: replace after deploying
+RENDER_URL = "https://linear-regression-model-ikuw.onrender.com"
 ALLOWED_ORIGINS = [
     RENDER_URL,
     "http://localhost:5000",    # Flutter web debug: flutter run -d chrome --web-port 5000
