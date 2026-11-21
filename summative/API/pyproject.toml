@@ -1,0 +1,13 @@
+[project]
+name = "salary-prediction-api"
+version = "1.0.0"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.162.5",
+    "joblib>=1.6.0",
+    "pandas>=3.1.1",
+    "pydantic>=2.14.3",
+    "python-multipart>=0.0.33",
+    "scikit-learn>=1.9.1",
+    "uvicorn>=0.54.0",
+]
