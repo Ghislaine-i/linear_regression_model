@@ -1,0 +1,101 @@
+WorkExp,YearsCode,Country,EdLevel,OrgSize,WorkArrangement,DevType,ICorPM,salary_k
+3.0,10.0,Canada,Bachelor,Under 20,Remote,Front-end,IC,65.663
+5.0,11.0,Ukraine,Bachelor,20-99,Remote,Other,IC,48.0
+4.0,4.0,UK,Some college,500-999,Flexible,Full-stack,IC,76.239
+10.0,17.0,USA,Bachelor,5000-9999,Flexible,Desktop/Enterprise,IC,240.0
+8.0,10.0,Germany,Secondary,500-999,Remote,Full-stack,IC,44.55
+2.0,3.0,Ukraine,Bachelor,Under 20,Remote,Full-stack,IC,9.275
+2.0,4.0,USA,Associate,10000+,Hybrid,DevOps,IC,88.0
+5.0,15.0,USA,Bachelor,100-499,Hybrid,Full-stack,IC,115.0
+6.0,8.0,France,Master,20-99,Hybrid,Other,Manager,40.605
+8.0,10.0,Poland,Bachelor,100-499,In-person,Full-stack,IC,51.851
+11.0,17.0,USA,Bachelor,Under 20,Remote,Other,Manager,165.0
+7.0,15.0,UK,Professional,500-999,Hybrid,Other,IC,81.685
+7.0,9.0,USA,Bachelor,10000+,Remote,Full-stack,IC,136.0
+6.0,14.0,Italy,Master,10000+,Hybrid,Back-end,IC,40.605
+3.0,5.0,USA,Bachelor,10000+,Flexible,Other,IC,10.0
+10.0,15.0,USA,Bachelor,10000+,Hybrid,Full-stack,IC,132.3
+6.0,6.0,UK,Bachelor,500-999,Remote,Other,IC,62.625
+2.0,11.0,USA,Bachelor,1000-4999,Hybrid,Other,IC,80.0
+2.0,4.0,Ukraine,Bachelor,100-499,Hybrid,Desktop/Enterprise,IC,23.966
+9.0,11.0,USA,Bachelor,100-499,Remote,Other,IC,144.0
+12.0,15.0,Ukraine,Bachelor,100-499,Remote,Back-end,IC,85.851
+2.0,6.0,Ukraine,Bachelor,20-99,Remote,Other,IC,12.971
+8.0,10.0,USA,Some college,100-499,Hybrid,Full-stack,IC,70.0
+1.0,2.0,India,Bachelor,10000+,Hybrid,Other,IC,37.197
+11.0,18.0,USA,Bachelor,1000-4999,Hybrid,Other,IC,133.14
+10.0,18.0,Canada,Bachelor,100-499,Remote,Full-stack,IC,59.096
+10.0,18.0,France,Professional,10000+,Hybrid,Other,IC,40.605
+9.0,15.0,USA,Master,20-99,Hybrid,Full-stack,IC,158.0
+3.0,7.0,UK,Master,100-499,Remote,Full-stack,IC,80.323
+7.0,9.0,USA,Bachelor,100-499,Remote,Back-end,IC,77.517
+10.0,15.0,USA,Bachelor,100-499,Remote,Other,IC,250.0
+13.0,13.0,Netherlands,Bachelor,100-499,Flexible,Full-stack,IC,83.531
+13.0,20.0,USA,Associate,1000-4999,In-person,Other,IC,105.205
+4.0,7.0,Canada,Bachelor,5000-9999,Hybrid,DevOps,IC,102.142
+5.0,6.0,Italy,Secondary,20-99,Flexible,Full-stack,IC,23.203
+1.0,5.0,Italy,Some college,20-99,In-person,Full-stack,IC,48.726
+6.0,10.0,UK,Bachelor,Under 20,Remote,Full-stack,IC,74.878
+1.0,10.0,USA,Bachelor,10000+,Remote,Full-stack,IC,70.0
+7.0,15.0,Poland,Some college,20-99,Hybrid,DevOps,IC,40.935
+7.0,11.0,Netherlands,Bachelor,1000-4999,Hybrid,Architect,IC,78.89
+13.0,25.0,India,Master,Under 20,Remote,Full-stack,IC,34.872
+8.0,6.0,USA,Some college,100-499,In-person,Other,IC,105.0
+6.0,10.0,USA,Bachelor,500-999,Remote,Full-stack,IC,105.0
+7.0,10.0,India,Bachelor,20-99,In-person,Other,Manager,58.12
+3.0,8.0,Germany,Some college,1000-4999,Hybrid,Other,IC,52.731
+9.0,14.0,USA,Bachelor,100-499,Flexible,Full-stack,IC,125.0
+6.0,15.0,USA,Master,5000-9999,Remote,Other,Manager,212.75
+10.0,15.0,UK,Bachelor,20-99,Hybrid,Full-stack,IC,190.598
+9.0,9.0,Ukraine,Master,20-99,Remote,Back-end,IC,57.519
+10.0,15.0,USA,Master,1000-4999,Hybrid,Back-end,IC,245.0
+6.0,13.0,UK,Professional,500-999,Remote,Other,IC,77.62
+5.0,11.0,USA,Bachelor,10000+,Hybrid,Other,IC,200.0
+5.0,7.0,France,Bachelor,5000-9999,Hybrid,Desktop/Enterprise,IC,63.808
+7.0,17.0,UK,Bachelor,20-99,Hybrid,Front-end,IC,72.155
+8.0,14.0,USA,Some college,10000+,In-person,Other,IC,91.0
+2.0,5.0,USA,Some college,20-99,Hybrid,Full-stack,IC,85.0
+9.0,14.0,USA,Bachelor,500-999,Hybrid,Back-end,IC,180.0
+6.0,6.0,USA,Bachelor,10000+,Hybrid,Full-stack,IC,122.5
+9.0,11.0,USA,Master,1000-4999,Remote,Back-end,IC,111.0
+2.0,9.0,Brazil,Bachelor,10000+,Hybrid,Other,IC,15.473
+7.0,15.0,Canada,Bachelor,10000+,In-person,Other,IC,218.875
+3.0,5.0,USA,Secondary,20-99,Remote,Full-stack,IC,75.0
+11.0,21.0,Netherlands,Bachelor,100-499,Hybrid,Full-stack,IC,77.73
+12.0,24.0,USA,Master,100-499,Remote,DevOps,IC,150.0
+4.0,5.0,UK,Secondary,10000+,Hybrid,Other,IC,63.986
+10.0,12.0,USA,Professional,20-99,Hybrid,Other,IC,75.0
+15.0,12.0,Germany,Some college,20-99,Remote,DevOps,IC,156.62
+5.0,9.0,India,Bachelor,5000-9999,Hybrid,Other,IC,38.94
+3.0,13.0,France,Bachelor,20-99,Flexible,Full-stack,IC,25.059
+12.0,15.0,Italy,Secondary,100-499,In-person,Mobile,IC,48.726
+2.0,15.0,Germany,Professional,100-499,In-person,Other,IC,77.73
+2.0,10.0,UK,Bachelor,20-99,Hybrid,Other,IC,70.113
+9.0,20.0,Germany,Master,100-499,Remote,Desktop/Enterprise,IC,70.769
+12.0,17.0,USA,Bachelor,Under 20,Hybrid,Full-stack,IC,115.0
+1.0,2.0,Canada,Bachelor,Under 20,Remote,Full-stack,Manager,30.643
+2.0,4.0,Brazil,Professional,Under 20,Hybrid,Full-stack,IC,14.563
+8.0,18.0,UK,Master,5000-9999,In-person,Desktop/Enterprise,IC,81.685
+10.0,16.0,USA,Bachelor,Under 20,Hybrid,Full-stack,IC,120.0
+4.0,8.0,UK,Bachelor,20-99,Hybrid,Full-stack,IC,50.372
+5.0,15.0,France,Professional,100-499,Hybrid,Other,IC,60.328
+9.0,10.0,Netherlands,Some college,Under 20,Flexible,Full-stack,IC,41.765
+3.0,9.0,France,Master,1000-4999,Hybrid,Other,IC,51.511
+4.0,9.0,USA,Bachelor,100-499,Hybrid,Full-stack,IC,73.822
+8.0,11.0,Spain,Bachelor,1000-4999,Remote,Other,IC,58.007
+4.0,15.0,Germany,Professional,1000-4999,In-person,Other,IC,52.207
+9.0,3.0,India,Other,1000-4999,Hybrid,Back-end,IC,5.812
+3.0,9.0,Italy,Some college,Under 20,In-person,Full-stack,IC,29.004
+2.0,8.0,India,Bachelor,100-499,Flexible,Full-stack,IC,11.624
+8.0,12.0,Spain,Master,Under 20,Hybrid,Full-stack,IC,32.484
+10.0,13.0,USA,Master,100-499,Remote,Other,Manager,200.0
+2.0,10.0,Spain,Bachelor,20-99,Flexible,Other,IC,23.203
+9.0,13.0,USA,Bachelor,20-99,Remote,Back-end,IC,215.0
+4.0,5.0,Germany,Bachelor,1000-4999,Hybrid,Architect,IC,72.393
+6.0,10.0,Poland,Some college,20-99,Flexible,Mobile,IC,29.473
+2.0,12.0,Italy,Some college,20-99,Hybrid,Back-end,IC,31.324
+15.0,20.0,Netherlands,Bachelor,10000+,Hybrid,Full-stack,IC,88.171
+11.0,17.0,India,Bachelor,10000+,Hybrid,Full-stack,IC,25.573
+10.0,15.0,Spain,Bachelor,20-99,Remote,Other,IC,81.21
+11.0,12.0,Ukraine,Master,100-499,Remote,Desktop/Enterprise,IC,10.0
+5.0,10.0,Italy,Professional,100-499,Hybrid,Full-stack,IC,46.406
