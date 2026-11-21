@@ -1,0 +1,1 @@
+"""FastAPI salary prediction service."""
